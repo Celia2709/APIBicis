@@ -14,7 +14,8 @@ Outra opción é usar docker-compose, tamén incluido.
 
 # Acceso a base de datos:
 Na consola:
-- docker exec -it mongo mongo
+- docker exec -it mongo bash
+- mongosh
 
 En MongoDB:
 - use citybikes_db
