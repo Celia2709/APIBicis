@@ -1,5 +1,5 @@
 # APIBicis
-Proxecto de fin de avaliacion de Sistemas de Big Data. Obteremos datos en tempo real da API Citybikes para saber  o estado das estacións de aluguer de bicicletas e almacearemolos nunha base de datos de MongoDB.
+Proxecto de fin de avaliación de Sistemas de Big Data. Obteremos datos en tempo real da API Citybikes para saber o estado das estacións de aluguer de bicicletas e almacearemolos nunha base de datos de MongoDB.
 
 # Funcións principais do proxecto:
 - Conectaremonos a API de cada 5 minutos.
